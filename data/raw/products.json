@@ -1,0 +1,290 @@
+[
+  {
+    "product_id": 101,
+    "name": "NPM Home Jersey",
+    "category": "jerseys",
+    "price": 8490.0
+  },
+  {
+    "product_id": 102,
+    "name": "BMC Home Jersey",
+    "category": "jerseys",
+    "price": 6990.0
+  },
+  {
+    "product_id": 103,
+    "name": "FWR Home Jersey",
+    "category": "jerseys",
+    "price": 8290.0
+  },
+  {
+    "product_id": 104,
+    "name": "VDC Home Jersey",
+    "category": "jerseys",
+    "price": 8290.0
+  },
+  {
+    "product_id": 105,
+    "name": "NPM Away Jersey",
+    "category": "jerseys",
+    "price": 5390.0
+  },
+  {
+    "product_id": 106,
+    "name": "BMC Away Jersey",
+    "category": "jerseys",
+    "price": 6090.0
+  },
+  {
+    "product_id": 107,
+    "name": "FWR Away Jersey",
+    "category": "jerseys",
+    "price": 5790.0
+  },
+  {
+    "product_id": 108,
+    "name": "VDC Away Jersey",
+    "category": "jerseys",
+    "price": 7990.0
+  },
+  {
+    "product_id": 109,
+    "name": "NPM Retro Jersey",
+    "category": "jerseys",
+    "price": 5190.0
+  },
+  {
+    "product_id": 110,
+    "name": "BMC Retro Jersey",
+    "category": "jerseys",
+    "price": 8590.0
+  },
+  {
+    "product_id": 111,
+    "name": "FWR Retro Jersey",
+    "category": "jerseys",
+    "price": 5390.0
+  },
+  {
+    "product_id": 112,
+    "name": "VDC Retro Jersey",
+    "category": "jerseys",
+    "price": 7190.0
+  },
+  {
+    "product_id": 113,
+    "name": "NPM Kids Jersey",
+    "category": "jerseys",
+    "price": 6090.0
+  },
+  {
+    "product_id": 114,
+    "name": "BMC Kids Jersey",
+    "category": "jerseys",
+    "price": 5090.0
+  },
+  {
+    "product_id": 115,
+    "name": "FWR Kids Jersey",
+    "category": "jerseys",
+    "price": 7590.0
+  },
+  {
+    "product_id": 116,
+    "name": "VDC Kids Jersey",
+    "category": "jerseys",
+    "price": 8790.0
+  },
+  {
+    "product_id": 117,
+    "name": "NPM Classic Scarf",
+    "category": "scarves",
+    "price": 1790.0
+  },
+  {
+    "product_id": 118,
+    "name": "BMC Classic Scarf",
+    "category": "scarves",
+    "price": 2090.0
+  },
+  {
+    "product_id": 119,
+    "name": "FWR Classic Scarf",
+    "category": "scarves",
+    "price": 1590.0
+  },
+  {
+    "product_id": 120,
+    "name": "VDC Classic Scarf",
+    "category": "scarves",
+    "price": 1490.0
+  },
+  {
+    "product_id": 121,
+    "name": "NPM Winter Scarf",
+    "category": "scarves",
+    "price": 2390.0
+  },
+  {
+    "product_id": 122,
+    "name": "BMC Winter Scarf",
+    "category": "scarves",
+    "price": 1490.0
+  },
+  {
+    "product_id": 123,
+    "name": "FWR Winter Scarf",
+    "category": "scarves",
+    "price": 2090.0
+  },
+  {
+    "product_id": 124,
+    "name": "VDC Winter Scarf",
+    "category": "scarves",
+    "price": 2390.0
+  },
+  {
+    "product_id": 125,
+    "name": "NPM Match Ball",
+    "category": "balls",
+    "price": 4290.0
+  },
+  {
+    "product_id": 126,
+    "name": "BMC Match Ball",
+    "category": "balls",
+    "price": 7990.0
+  },
+  {
+    "product_id": 127,
+    "name": "FWR Match Ball",
+    "category": "balls",
+    "price": 5890.0
+  },
+  {
+    "product_id": 128,
+    "name": "VDC Match Ball",
+    "category": "balls",
+    "price": 4090.0
+  },
+  {
+    "product_id": 129,
+    "name": "NPM Training Ball",
+    "category": "balls",
+    "price": 5790.0
+  },
+  {
+    "product_id": 130,
+    "name": "BMC Training Ball",
+    "category": "balls",
+    "price": 3790.0
+  },
+  {
+    "product_id": 131,
+    "name": "FWR Training Ball",
+    "category": "balls",
+    "price": 4390.0
+  },
+  {
+    "product_id": 132,
+    "name": "VDC Training Ball",
+    "category": "balls",
+    "price": 5390.0
+  },
+  {
+    "product_id": 133,
+    "name": "NPM Snapback Cap",
+    "category": "caps",
+    "price": 1490.0
+  },
+  {
+    "product_id": 134,
+    "name": "BMC Snapback Cap",
+    "category": "caps",
+    "price": 2190.0
+  },
+  {
+    "product_id": 135,
+    "name": "FWR Snapback Cap",
+    "category": "caps",
+    "price": 1390.0
+  },
+  {
+    "product_id": 136,
+    "name": "VDC Snapback Cap",
+    "category": "caps",
+    "price": 1490.0
+  },
+  {
+    "product_id": 137,
+    "name": "NPM Beanie",
+    "category": "caps",
+    "price": 1690.0
+  },
+  {
+    "product_id": 138,
+    "name": "BMC Beanie",
+    "category": "caps",
+    "price": 1690.0
+  },
+  {
+    "product_id": 139,
+    "name": "FWR Beanie",
+    "category": "caps",
+    "price": 2290.0
+  },
+  {
+    "product_id": 140,
+    "name": "VDC Beanie",
+    "category": "caps",
+    "price": 1490.0
+  },
+  {
+    "product_id": 141,
+    "name": "NPM Mug",
+    "category": "accessories",
+    "price": 590.0
+  },
+  {
+    "product_id": 142,
+    "name": "BMC Mug",
+    "category": "accessories",
+    "price": 590.0
+  },
+  {
+    "product_id": 143,
+    "name": "FWR Mug",
+    "category": "accessories",
+    "price": 990.0
+  },
+  {
+    "product_id": 144,
+    "name": "VDC Mug",
+    "category": "accessories",
+    "price": 590.0
+  },
+  {
+    "product_id": 145,
+    "name": "NPM Keychain",
+    "category": "accessories",
+    "price": 490.0
+  },
+  {
+    "product_id": 146,
+    "name": "BMC Keychain",
+    "category": "accessories",
+    "price": 1090.0
+  },
+  {
+    "product_id": 147,
+    "name": "FWR Keychain",
+    "category": "accessories",
+    "price": 1290.0
+  },
+  {
+    "product_id": 148,
+    "name": "VDC Keychain",
+    "category": "accessories",
+    "price": 690.0
+  }
+]

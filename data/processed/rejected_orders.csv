@@ -1,0 +1,19 @@
+order_id,order_date,product_id,quantity,unit_price,payment,customer,city,reason
+NSS-0015,2026-11-09,133,-2,1490.0,card,Luka Kovačević,Novi Sad,invalid_quantity
+NSS-0046,2026-11-11,117,,1790.0,paypal,Nikola Pavlović,Subotica,missing_quantity
+NSS-0047,2026-11-11,104,0,8290.0,paypal,Milan Ilić,Zrenjanin,invalid_quantity
+NSS-0048,2026-11-11,128,1,-500.0,card,Luka Kovačević,Kragujevac,invalid_price
+NSS-0051,2026-11-11,999,2,1090.0,card,Marko Kovačević,Zrenjanin,unknown_product
+TST-0058,2026-11-12,144,1,590.0,card,Marko Petrović,Kragujevac,invalid_order
+NSS-0060,2026-11-12,148,1.5,690.0,card,Ivana Jovanović,Niš,invalid_quantity
+NSS-0062,2026-11-12,999,1,4090.0,card,Jelena Jovanović,Čačak,unknown_product
+NSS-0081,2026-11-13,132,-1,5390.0,cash,Ana Stojanović,Novi Sad,invalid_quantity
+NSS-0084,2026-11-13,125,1,abc,cash,Nikola Đorđević,Niš,invalid_price
+NSS-0088,2026-11-13,116,,8790.0,paypal,Jovana Stojanović,Subotica,missing_quantity
+NSS-0097,2026-11-14,123,,2090.0,card,Milica Đorđević,Niš,missing_quantity
+NSS-0111,2026-11-15,111,3,,card,Petar Marković,Subotica,invalid_price
+TST-0114,2026-11-15,129,3,5790.0,cash,Stefan Nikolić,Zrenjanin,invalid_order
+TST-0117,2026-11-15,113,1,6090.0,card,Nikola Đorđević,Novi Sad,invalid_order
+NSS-0016,2026-11-09,113,1,6090.0,card,Nikola Pavlović,Čačak,duplicate
+NSS-0017,2026-11-09,146,2,1090.0,card,Petar Jovanović,Beograd,duplicate
+NSS-0026,2026-11-10,147,1,1290.0,paypal,Ana Petrović,Niš,duplicate

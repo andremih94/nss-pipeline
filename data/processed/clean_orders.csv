@@ -1,0 +1,108 @@
+order_id,order_date,product_id,quantity,unit_price,payment,customer,city,total,product_name,category
+NSS-0001,2026-11-09,113,2,6090.0,paypal,Milan Petrović,Beograd,12180.0,NPM Kids Jersey,jerseys
+NSS-0002,2026-11-09,114,2,5090.0,card,Marko Jovanović,Beograd,10180.0,BMC Kids Jersey,jerseys
+NSS-0003,2026-11-09,122,3,1490.0,paypal,Milica Petrović,Niš,4470.0,BMC Winter Scarf,scarves
+NSS-0004,2026-11-09,112,1,7190.0,card,Ivana Nikolić,Subotica,7190.0,VDC Retro Jersey,jerseys
+NSS-0005,2026-11-09,135,2,1390.0,card,Luka Ilić,Novi Sad,2780.0,FWR Snapback Cap,caps
+NSS-0006,2026-11-09,147,2,1290.0,card,Luka Đorđević,Beograd,2580.0,FWR Keychain,accessories
+NSS-0007,2026-11-09,122,1,1490.0,card,Ivana Nikolić,Kragujevac,1490.0,BMC Winter Scarf,scarves
+NSS-0008,2026-11-09,118,3,2090.0,paypal,Jovana Kovačević,Subotica,6270.0,BMC Classic Scarf,scarves
+NSS-0009,2026-11-09,105,1,5390.0,cash,Ana Kovačević,Niš,5390.0,NPM Away Jersey,jerseys
+NSS-0010,2026-11-09,138,1,1690.0,paypal,Marko Stojanović,Unknown,1690.0,BMC Beanie,caps
+NSS-0011,2026-11-09,138,1,1690.0,card,Sara Đorđević,Kragujevac,1690.0,BMC Beanie,caps
+NSS-0012,2026-11-09,105,2,5390.0,card,Stefan Nikolić,Subotica,10780.0,NPM Away Jersey,jerseys
+NSS-0013,2026-11-09,105,2,5390.0,card,Nikola Kovačević,Kragujevac,10780.0,NPM Away Jersey,jerseys
+NSS-0014,2026-11-09,134,3,2190.0,card,Sara Marković,Zrenjanin,6570.0,BMC Snapback Cap,caps
+NSS-0016,2026-11-09,113,1,6090.0,card,Nikola Pavlović,Čačak,6090.0,NPM Kids Jersey,jerseys
+NSS-0017,2026-11-09,146,2,1090.0,card,Petar Jovanović,Beograd,2180.0,BMC Keychain,accessories
+NSS-0018,2026-11-09,142,3,590.0,card,Nikola Stojanović,Subotica,1770.0,BMC Mug,accessories
+NSS-0019,2026-11-10,112,3,7190.0,card,Sara Pavlović,Zrenjanin,21570.0,VDC Retro Jersey,jerseys
+NSS-0020,2026-11-10,128,2,4090.0,paypal,Luka Pavlović,Novi Sad,8180.0,VDC Match Ball,balls
+NSS-0021,2026-11-10,126,1,7990.0,paypal,Milica Jovanović,Beograd,7990.0,BMC Match Ball,balls
+NSS-0022,2026-11-10,140,1,1490.0,card,Nikola Marković,Subotica,1490.0,VDC Beanie,caps
+NSS-0023,2026-11-10,129,1,5790.0,card,Sara Jovanović,Niš,5790.0,NPM Training Ball,balls
+NSS-0024,2026-11-10,110,1,8590.0,card,Sara Ilić,Zrenjanin,8590.0,BMC Retro Jersey,jerseys
+NSS-0025,2026-11-10,134,2,2190.0,card,Jelena Pavlović,Beograd,4380.0,BMC Snapback Cap,caps
+NSS-0026,2026-11-10,147,1,1290.0,paypal,Ana Petrović,Niš,1290.0,FWR Keychain,accessories
+NSS-0027,2026-11-10,117,3,1790.0,cash,Jelena Nikolić,Sombor,5370.0,NPM Classic Scarf,scarves
+NSS-0028,2026-11-10,114,1,5090.0,card,Stefan Jovanović,Subotica,5090.0,BMC Kids Jersey,jerseys
+NSS-0029,2026-11-10,129,1,5790.0,cash,Stefan Ilić,Subotica,5790.0,NPM Training Ball,balls
+NSS-0030,2026-11-10,146,2,1090.0,paypal,Sara Lazić,Niš,2180.0,BMC Keychain,accessories
+NSS-0031,2026-11-10,135,1,1390.0,card,Milica Marković,Niš,1390.0,FWR Snapback Cap,caps
+NSS-0032,2026-11-10,148,1,690.0,card,Luka Lazić,Subotica,690.0,VDC Keychain,accessories
+NSS-0033,2026-11-10,108,2,7990.0,card,Jelena Lazić,Zrenjanin,15980.0,VDC Away Jersey,jerseys
+NSS-0034,2026-11-10,128,1,4090.0,card,Luka Stojanović,Beograd,4090.0,VDC Match Ball,balls
+NSS-0035,2026-11-10,141,1,590.0,card,Stefan Petrović,Niš,590.0,NPM Mug,accessories
+NSS-0036,2026-11-11,114,2,5090.0,card,Marko Marković,Čačak,10180.0,BMC Kids Jersey,jerseys
+NSS-0037,2026-11-11,148,1,690.0,card,Milan Jovanović,Beograd,690.0,VDC Keychain,accessories
+NSS-0038,2026-11-11,136,2,1490.0,card,Nikola Petrović,Kragujevac,2980.0,VDC Snapback Cap,caps
+NSS-0039,2026-11-11,135,1,1390.0,cash,Marko Ilić,Unknown,1390.0,FWR Snapback Cap,caps
+NSS-0040,2026-11-11,120,1,1490.0,cash,Milan Nikolić,Novi Sad,1490.0,VDC Classic Scarf,scarves
+NSS-0041,2026-11-11,148,1,690.0,card,Ana Pavlović,Beograd,690.0,VDC Keychain,accessories
+NSS-0042,2026-11-11,136,2,1490.0,paypal,Marko Petrović,Niš,2980.0,VDC Snapback Cap,caps
+NSS-0043,2026-11-11,137,1,1690.0,cash,Stefan Kovačević,Subotica,1690.0,NPM Beanie,caps
+NSS-0044,2026-11-11,103,1,8290.0,card,Nikola Marković,Zrenjanin,8290.0,FWR Home Jersey,jerseys
+NSS-0045,2026-11-11,115,2,7590.0,paypal,Jelena Nikolić,Kragujevac,15180.0,FWR Kids Jersey,jerseys
+NSS-0049,2026-11-11,136,1,1490.0,card,Marko Nikolić,Novi Sad,1490.0,VDC Snapback Cap,caps
+NSS-0050,2026-11-11,136,1,1490.0,card,Petar Jovanović,Sombor,1490.0,VDC Snapback Cap,caps
+NSS-0052,2026-11-11,110,2,8590.0,paypal,Milan Ilić,Čačak,17180.0,BMC Retro Jersey,jerseys
+NSS-0053,2026-11-11,146,1,1090.0,paypal,Milica Petrović,Beograd,1090.0,BMC Keychain,accessories
+NSS-0054,2026-11-12,111,1,5390.0,paypal,Stefan Đorđević,Zrenjanin,5390.0,FWR Retro Jersey,jerseys
+NSS-0055,2026-11-12,101,2,8490.0,card,Nikola Pavlović,Niš,16980.0,NPM Home Jersey,jerseys
+NSS-0056,2026-11-12,135,1,1390.0,card,Ana Ilić,Zrenjanin,1390.0,FWR Snapback Cap,caps
+NSS-0057,2026-11-12,120,2,1490.0,paypal,Marko Petrović,Čačak,2980.0,VDC Classic Scarf,scarves
+NSS-0059,2026-11-12,114,2,5090.0,paypal,Ana Pavlović,Čačak,10180.0,BMC Kids Jersey,jerseys
+NSS-0061,2026-11-12,108,2,7990.0,cash,Nikola Stojanović,Zrenjanin,15980.0,VDC Away Jersey,jerseys
+NSS-0063,2026-11-12,120,2,1490.0,card,Ivana Đorđević,Beograd,2980.0,VDC Classic Scarf,scarves
+NSS-0064,2026-11-12,108,1,7990.0,card,Ivana Jovanović,Subotica,7990.0,VDC Away Jersey,jerseys
+NSS-0065,2026-11-12,109,1,5190.0,paypal,Milica Lazić,Unknown,5190.0,NPM Retro Jersey,jerseys
+NSS-0066,2026-11-12,103,3,8290.0,card,Milica Marković,Subotica,24870.0,FWR Home Jersey,jerseys
+NSS-0067,2026-11-12,102,1,6990.0,paypal,Milan Đorđević,Kragujevac,6990.0,BMC Home Jersey,jerseys
+NSS-0068,2026-11-12,112,1,7190.0,paypal,Milan Jovanović,Sombor,7190.0,VDC Retro Jersey,jerseys
+NSS-0069,2026-11-12,117,2,1790.0,cash,Jelena Ilić,Čačak,3580.0,NPM Classic Scarf,scarves
+NSS-0070,2026-11-12,133,1,1490.0,card,Marko Đorđević,Čačak,1490.0,NPM Snapback Cap,caps
+NSS-0071,2026-11-13,120,2,1490.0,card,Jelena Ilić,Čačak,2980.0,VDC Classic Scarf,scarves
+NSS-0072,2026-11-13,107,1,5790.0,card,Stefan Marković,Zrenjanin,5790.0,FWR Away Jersey,jerseys
+NSS-0073,2026-11-13,141,1,590.0,paypal,Milica Marković,Kragujevac,590.0,NPM Mug,accessories
+NSS-0074,2026-11-13,138,1,1690.0,card,Marko Lazić,Čačak,1690.0,BMC Beanie,caps
+NSS-0075,2026-11-13,147,2,1290.0,paypal,Ana Petrović,Čačak,2580.0,FWR Keychain,accessories
+NSS-0076,2026-11-13,134,3,2190.0,paypal,Stefan Ilić,Novi Sad,6570.0,BMC Snapback Cap,caps
+NSS-0077,2026-11-13,146,3,1090.0,paypal,Ivana Lazić,Sombor,3270.0,BMC Keychain,accessories
+NSS-0078,2026-11-13,120,1,1490.0,card,Nikola Stojanović,Zrenjanin,1490.0,VDC Classic Scarf,scarves
+NSS-0079,2026-11-13,107,3,5790.0,cash,Milan Petrović,Niš,17370.0,FWR Away Jersey,jerseys
+NSS-0080,2026-11-13,101,3,8490.0,paypal,Milan Ilić,Beograd,25470.0,NPM Home Jersey,jerseys
+NSS-0082,2026-11-13,132,2,5390.0,card,Luka Kovačević,Zrenjanin,10780.0,VDC Training Ball,balls
+NSS-0083,2026-11-13,112,2,7190.0,card,Ana Đorđević,Zrenjanin,14380.0,VDC Retro Jersey,jerseys
+NSS-0085,2026-11-13,119,2,1590.0,paypal,Nikola Ilić,Niš,3180.0,FWR Classic Scarf,scarves
+NSS-0086,2026-11-13,128,1,4090.0,card,Ana Ilić,Sombor,4090.0,VDC Match Ball,balls
+NSS-0087,2026-11-13,106,1,6090.0,paypal,Milica Nikolić,Subotica,6090.0,BMC Away Jersey,jerseys
+NSS-0089,2026-11-14,140,1,1490.0,paypal,Milan Nikolić,Beograd,1490.0,VDC Beanie,caps
+NSS-0090,2026-11-14,107,1,5790.0,card,Luka Lazić,Beograd,5790.0,FWR Away Jersey,jerseys
+NSS-0091,2026-11-14,129,1,5790.0,paypal,Jovana Petrović,Unknown,5790.0,NPM Training Ball,balls
+NSS-0092,2026-11-14,135,2,1390.0,card,Jelena Nikolić,Čačak,2780.0,FWR Snapback Cap,caps
+NSS-0093,2026-11-14,142,1,590.0,cash,Marko Stojanović,Beograd,590.0,BMC Mug,accessories
+NSS-0094,2026-11-14,137,3,1690.0,card,Sara Pavlović,Sombor,5070.0,NPM Beanie,caps
+NSS-0095,2026-11-14,115,1,7590.0,cash,Jelena Jovanović,Čačak,7590.0,FWR Kids Jersey,jerseys
+NSS-0096,2026-11-14,146,1,1090.0,card,Petar Stojanović,Zrenjanin,1090.0,BMC Keychain,accessories
+NSS-0098,2026-11-14,101,3,8490.0,cash,Milan Marković,Beograd,25470.0,NPM Home Jersey,jerseys
+NSS-0099,2026-11-14,110,2,8590.0,cash,Luka Nikolić,Kragujevac,17180.0,BMC Retro Jersey,jerseys
+NSS-0100,2026-11-14,101,2,8490.0,card,Luka Pavlović,Sombor,16980.0,NPM Home Jersey,jerseys
+NSS-0101,2026-11-14,109,2,5190.0,cash,Jovana Stojanović,Sombor,10380.0,NPM Retro Jersey,jerseys
+NSS-0102,2026-11-14,131,1,4390.0,card,Jovana Ilić,Niš,4390.0,FWR Training Ball,balls
+NSS-0103,2026-11-14,146,1,1090.0,card,Stefan Jovanović,Zrenjanin,1090.0,BMC Keychain,accessories
+NSS-0104,2026-11-14,117,1,1790.0,paypal,Luka Jovanović,Novi Sad,1790.0,NPM Classic Scarf,scarves
+NSS-0105,2026-11-14,140,1,1490.0,paypal,Milan Ilić,Zrenjanin,1490.0,VDC Beanie,caps
+NSS-0106,2026-11-15,111,1,5390.0,card,Jelena Ilić,Čačak,5390.0,FWR Retro Jersey,jerseys
+NSS-0107,2026-11-15,138,1,1690.0,paypal,Stefan Kovačević,Niš,1690.0,BMC Beanie,caps
+NSS-0108,2026-11-15,106,3,6090.0,cash,Jovana Kovačević,Sombor,18270.0,BMC Away Jersey,jerseys
+NSS-0109,2026-11-15,142,1,590.0,cash,Luka Ilić,Subotica,590.0,BMC Mug,accessories
+NSS-0110,2026-11-15,142,1,590.0,paypal,Sara Kovačević,Subotica,590.0,BMC Mug,accessories
+NSS-0112,2026-11-15,130,1,3790.0,card,Sara Jovanović,Unknown,3790.0,BMC Training Ball,balls
+NSS-0113,2026-11-15,136,1,1490.0,card,Stefan Pavlović,Novi Sad,1490.0,VDC Snapback Cap,caps
+NSS-0115,2026-11-15,114,1,5090.0,paypal,Petar Stojanović,Čačak,5090.0,BMC Kids Jersey,jerseys
+NSS-0116,2026-11-15,129,1,5790.0,paypal,Milica Ilić,Kragujevac,5790.0,NPM Training Ball,balls
+NSS-0118,2026-11-15,101,3,8490.0,cash,Ana Nikolić,Sombor,25470.0,NPM Home Jersey,jerseys
+NSS-0119,2026-11-15,105,1,5390.0,card,Jovana Đorđević,Novi Sad,5390.0,NPM Away Jersey,jerseys
+NSS-0120,2026-11-15,143,1,990.0,paypal,Jelena Petrović,Zrenjanin,990.0,FWR Mug,accessories
+NSS-0121,2026-11-15,135,2,1390.0,paypal,Stefan Jovanović,Beograd,2780.0,FWR Snapback Cap,caps
+NSS-0122,2026-11-15,111,2,5390.0,card,Jelena Petrović,Beograd,10780.0,FWR Retro Jersey,jerseys
